@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,27234,e=>{"use strict";var t=e.i(71645),r=e.i(58249);e.s(["ProjectView",0,function({name:e}){let c=(0,t.useRef)(!1);return(0,t.useEffect)(()=>{c.current||(c.current=!0,(0,r.track)("project_view",{project_name:e}))},[e]),null}])}]);

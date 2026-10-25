@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://ney123123.github.io/</loc>
+<lastmod>2026-10-25T05:22:04.146Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://ney123123.github.io/projects/clovor/</loc>
+<lastmod>2026-10-25T05:22:04.146Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://ney123123.github.io/projects/zeropoint/</loc>
+<lastmod>2026-10-25T05:22:04.146Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://ney123123.github.io/projects/boog/</loc>
+<lastmod>2026-10-25T05:22:04.146Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
+</url>
+</urlset>
